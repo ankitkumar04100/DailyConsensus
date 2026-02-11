@@ -1,4 +1,7 @@
 # 🎯 DailyConsensus  
+
+<img width="1536" height="1024" alt="Designer (42)" src="https://github.com/user-attachments/assets/3c0c9dbc-7bf2-4353-8ca2-13bb42fe503a" />
+
 ### Can Reddit agree… even for one day?
 
 > A daily Reddit-native social experiment built with Devvit Interactive Posts.
