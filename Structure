@@ -1,0 +1,16 @@
+DailyConsensus/
+│
+├── src/
+│   ├── client/
+│   │   ├── game/
+│   │   │   └── App.tsx
+│   │   └── splash/
+│   │       └── splash.tsx
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+├── package.json
